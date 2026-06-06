@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">api.tradigoultra.com</domain>
+        <pin-set>
+            <!-- Replace with real SHA-256 pins -->
+            <pin digest="SHA-256">PLACEHOLDER_SET_IN_LOCAL_PROPERTIES</pin>
+        </pin-set>
+    </domain-config>
+    <base-config cleartextTrafficPermitted="false" />
+</network-security-config>
