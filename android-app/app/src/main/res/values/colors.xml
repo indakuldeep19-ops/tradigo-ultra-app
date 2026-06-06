@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tradigo_dark">#FF0A0F1E</color>
+    <color name="tradigo_surface">#FF111424</color>
+    <color name="tradigo_accent">#FFD4AF37</color>
+    <color name="tradigo_gold">#FFD4AF37</color>
+    <color name="tradigo_gold_light">#FFF0D878</color>
+    <color name="tradigo_green">#FF00E676</color>
+    <color name="tradigo_red">#FFFF1744</color>
+    <color name="tradigo_cyan">#FF00E5FF</color>
+    <color name="tradigo_purple">#FF7C4DFF</color>
+    <color name="tradigo_text_gray">#FF8899AA</color>
+    <color name="tradigo_text_secondary">#FFB0C7FF</color>
+</resources>
