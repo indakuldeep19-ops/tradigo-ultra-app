@@ -1,24 +1,27 @@
-# Gradle files
-.gradle/
-build/
+# API Keys & Secrets - NEVER upload these
 local.properties
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Android Studio captures folder
-captures/
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (API keys, etc)
 google-services.json
+.env
+*.env
+*.keystore
+*.jks
+
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
 
 # Firebase
 .firebase/
@@ -27,9 +30,15 @@ firebase-debug.*.log
 
 # Node
 node_modules/
-.env
-.env.local
+npm-debug.log
+yarn-error.log
 
-# OS
-.DS_Store
-Thumbs.db
+# Build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
