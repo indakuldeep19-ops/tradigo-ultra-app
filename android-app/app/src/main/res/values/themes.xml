@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.TradigoUltra" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/tradigo_dark</item>
+        <item name="android:statusBarColor">@color/tradigo_dark</item>
+        <item name="android:navigationBarColor">@color/tradigo_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
