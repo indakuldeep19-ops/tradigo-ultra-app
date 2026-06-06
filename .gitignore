@@ -1,0 +1,35 @@
+# Gradle files
+.gradle/
+build/
+local.properties
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Android Studio captures folder
+captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (API keys, etc)
+google-services.json
+
+# Firebase
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+
+# Node
+node_modules/
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
